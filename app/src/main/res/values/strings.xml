@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DeliveryApp</string>
+    <string name="title_activity_test_detail_host">TestDetailHostActivity</string>
+    <string name="title_test_list">Tests</string>
+    <string name="title_test_detail">Test Detail</string>
+    <string name="channel_name">mychannel</string>
+    <string name="channel_description">myChannelDescription</string>
+</resources>

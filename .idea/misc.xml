@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.237890625" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/drawable/ic_baseline_perm_identity_24.xml" value="0.27265625" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_add_client.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_add_credentials.xml" value="0.1" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_add_dog.xml" value="0.33" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_add_employee.xml" value="0.33" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_add_orders.xml" value="0.1" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_add_owner.xml" value="0.33" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_add_services.xml" value="0.1" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_client.xml" value="0.15" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_credential.xml" value="0.169140625" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_detailed_client.xml" value="0.11457536342769702" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_detailed_credentials.xml" value="0.25" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_detailed_dog.xml" value="0.1" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_detailed_employee.xml" value="0.33" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_detailed_orders.xml" value="0.1" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_detailed_owner.xml" value="0.19753086419753085" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_detailed_services.xml" value="0.25" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_dog.xml" value="0.2" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_employee.xml" value="0.1" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_login.xml" value="0.15" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_login2.xml" value="0.169140625" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_main_staff.xml" value="0.1" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_orders.xml" value="0.1" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_owners.xml" value="0.1" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_report.xml" value="0.1" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_report_by_employee.xml" value="0.25092364532019706" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_report_by_month.xml" value="0.1" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_report_count.xml" value="0.25092364532019706" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_services.xml" value="0.1" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/activity_test_detail.xml" value="0.25092364532019706" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/fragment_test_detail.xml" value="0.5" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/fragment_test_list.xml" value="0.25" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/item_list.xml" value="0.33" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/report_month_item_list.xml" value="0.5" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/layout/test_list_content.xml" value="0.22" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/menu/menu_add.xml" value="0.173125" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/menu/menu_add_delete.xml" value="0.1" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/menu/menu_detail.xml" value="0.145625" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/menu/menu_list.xml" value="0.1" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/DeliveryApp/app/src/main/res/menu/menu_share.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.deliveryapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DeliveryApp">
+
+
+        <activity
+            android:name="com.example.schedulingApp.Activities.ReportByEmployeeActivity"
+            android:label="Report: Services By Employee"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schedulingApp.Activities.ReportByMonthActivity"
+            android:label="Report:Services By Month"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schedulingApp.Activities.ReportActivity"
+            android:label="Reports Page"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.schedulingApp.Activities.DetailedServicesActivity"
+            android:label="Service Detail Page"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schedulingApp.Activities.DetailedDogActivity"
+            android:label="Dog Detail Page"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schedulingApp.Activities.DetailedOwnerActivity"
+            android:label="Owner Detail Page"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schedulingApp.Activities.DetailedEmployeeActivity"
+            android:label="Employee Detail Page"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schedulingApp.Activities.DetailedCredentialsActivity"
+            android:label="Credentials Detail Page"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.schedulingApp.Activities.AddServiceActivity"
+            android:label="Add Service Page"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schedulingApp.Activities.AddDogActivity"
+            android:label="Add Dog Page"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schedulingApp.Activities.AddOwnerActivity"
+            android:label="Add Owner Page"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schedulingApp.Activities.AddCredentialsActivity"
+            android:label="Add Credentials Page"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schedulingApp.Activities.AddEmployeeActivity"
+            android:label="Add Employee Page"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.schedulingApp.Activities.ServicesActivity"
+            android:label="Service List Page"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schedulingApp.Activities.DogActivity"
+            android:label="Dog List Page"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schedulingApp.Activities.OwnersActivity"
+            android:label="Owner List Page"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schedulingApp.Activities.EmployeeActivity"
+            android:label="Employee List Page"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schedulingApp.Activities.CredentialActivity"
+            android:label="Credentials Page"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.schedulingApp.Activities.MainActivityStaff"
+            android:label="Employee Main Page"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schedulingApp.Activities.MainActivity"
+            android:label = "Administrator Main Page"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schedulingApp.Activities.Login"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
